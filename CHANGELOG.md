@@ -13,6 +13,7 @@
 
 ### Fixes
 
+* Add an id parameter to fingerprint to avoid bad cache hit
 * Fix completion when update is available
 * Fix repack when there is composer dependencies to castor
 
